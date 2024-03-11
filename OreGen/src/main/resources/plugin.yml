@@ -1,0 +1,11 @@
+name: OreGen
+version: '${project.version}'
+main: com.stardust.oregen.OreGen
+api-version: '1.20'
+
+authors: [ travisjayday ]
+commands:
+  oregen:
+    description: "OreGen commands. Use /oregen for help."
+    usage: Run "/oregen" for usage
+
